@@ -1,0 +1,3 @@
+Is C02 a Greenhouse gas?;true; C02 is one of the gasses that is responsible for Greenhouse effect.;
+Earth's climate has always been stable, with little variation?;false; Eart's climate has experienced periods of both warming and cooling throughout its history.;
+Carbon dioxide (CO2) is the only greenhouse gas responsible for climate change?;false; While CO2 is a significant contributor, other greenhouse gases like methane (CH4) and nitrous oxide (N2O) also play crucial roles in trapping heat in the atmosphere;
